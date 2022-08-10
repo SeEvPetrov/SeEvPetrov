@@ -1,4 +1,4 @@
-<h1>Привет, меня зовут Сергей 👋<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1>Привет, меня зовут Сергей 👋</h1>
 
 ### Я Junior front-end разработчик
 
