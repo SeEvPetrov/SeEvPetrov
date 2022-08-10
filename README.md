@@ -22,4 +22,4 @@
 ### Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/sepetrovski)
-[![Yandex](https://img.shields.io/badge/-me@juldashev.ru-141130?style=for-the-badge&logo=Gmail)](mailto:seevpetrov@gmail.com)
+[![Yandex](https://img.shields.io/badge/-seevpetrov@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:seevpetrov@gmail.com)
